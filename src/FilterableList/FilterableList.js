@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './FilterableList.css';
-import ListItem from './ListItem/ListItem' ;
+import ListItem from './ListItem' ;
 
 class FilterableList extends Component {
     
